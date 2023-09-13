@@ -32,7 +32,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-    # решение преподавателя:
+    # решение 2:
 
 import random
 
