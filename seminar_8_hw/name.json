@@ -1,0 +1,80 @@
+{
+  "C:\\Users\\sonym\\new_project\\venv\\seminar_8_hw": {
+    "data.json": {
+      "size": 159,
+      "file_or_dir": "file"
+    },
+    "direct_info_hw.py": {
+      "size": 3991,
+      "file_or_dir": "file"
+    },
+    "file_out.csv": {
+      "size": 99,
+      "file_or_dir": "file"
+    },
+    "json_in.json": {
+      "size": 471,
+      "file_or_dir": "file"
+    },
+    "json_pickle.bin": {
+      "size": 249,
+      "file_or_dir": "file"
+    },
+    "main.py": {
+      "size": 769,
+      "file_or_dir": "file"
+    },
+    "name.csv": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "name.json": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "name.pickle": {
+      "size": 0,
+      "file_or_dir": "file"
+    },
+    "pickle_to_csv.csv": {
+      "size": 216,
+      "file_or_dir": "file"
+    },
+    "task_1.py": {
+      "size": 1039,
+      "file_or_dir": "file"
+    },
+    "task_2.py": {
+      "size": 3966,
+      "file_or_dir": "file"
+    },
+    "task_3.py": {
+      "size": 1221,
+      "file_or_dir": "file"
+    },
+    "task_3_file.json": {
+      "size": 270,
+      "file_or_dir": "file"
+    },
+    "task_4.py": {
+      "size": 1952,
+      "file_or_dir": "file"
+    },
+    "task_5.py": {
+      "size": 821,
+      "file_or_dir": "file"
+    },
+    "task_6.py": {
+      "size": 1430,
+      "file_or_dir": "file"
+    },
+    "task_7.py": {
+      "size": 1086,
+      "file_or_dir": "file"
+    },
+    "__init__.py": {
+      "size": 430,
+      "file_or_dir": "file"
+    }
+  }
+}
