@@ -9,7 +9,7 @@ from task_1 import two_numbers
 from task_2 import two_numbers_two
 
 if __name__ == '__main__':
-    csv_to_json(Path('file_out.csv'), Path('json_in.json'))
+    csv_to_json(Path('../seminar_8_hw/file_out.csv'), Path('../seminar_8_hw/json_in.json'))
     print(factorial(3))
     results = two_numbers(5, 30)
     print(results)
